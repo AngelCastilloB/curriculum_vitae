@@ -4,11 +4,20 @@
 - New Taipei City, Taiwan
 
 
-Software developer specialized in Object-Oriented programming, with more than 10 years of programming experience. Advanced knowledge of C, C++, C#, Java and web tecnologies such as NodeJs
+Software developer specialized in Object-Oriented programming, with more than 10 years of programming experience. Advanced knowledge of C, C++, C#, Java, and web technologies such as NodeJs
 and Angular.
 
 ## Experience
 
+
+### <span>Founder & Software Consultant</span> <span>Oct. 2022 -- Present</span>
+Biglup Labs | New Taipei City, Taiwan
+
+- Specializing in blockchain technology, I provide expert consultancy and support to industry leaders, focusing on developing high-quality crypto products that enhance user experiences within blockchain ecosystems. 
+
+#### Technologies used:
+ - C/C++ / STL, Haskell, Rust, C#, Java, CMake, Linux, Android, PostgreSQL, MongoDB, Node.Js, Express, Confluence, Jira, Typescript/Javascript, RxJs, NodeJs, PostgreSQL, Angular and ReactJS.
+ 
 ### <span>Senior Software Engineer</span> <span>Oct. 2022 -- Present</span>
 IOHK | New Taipei City, Taiwan
 
